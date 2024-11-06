@@ -63,4 +63,4 @@ jobs:
           app-name: 'align111'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9AF50CD3BF2F4633A621D66D4325C88C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4C1FA6B9AF742D3A1C990BECF606382 }}
